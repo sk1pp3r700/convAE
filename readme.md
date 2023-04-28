@@ -1,3 +1,5 @@
+FOR SPLITTER ONLY
+
 #this code uses cv2 to convert videos to images
 
 #it takes in the video name and extension stored in the same folder
